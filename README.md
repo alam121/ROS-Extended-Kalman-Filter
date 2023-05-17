@@ -1,5 +1,4 @@
 # Extended Kalman Filter Project
-Self-Driving Car Engineer Nanodegree Program
 
 ## Project Description
 
